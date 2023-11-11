@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lupang Liyab Structure</title>
+    <!-- Add your additional meta tags, stylesheets, and scripts here -->
+</head>
+
+<body>
+    <!-- Header Section -->
+    <header>
+        <nav>
+            <!-- Navigation Menu -->
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Home Section -->
+    <section id="home">
+        <h1>Welcome to Lupang Liyab Structure</h1>
+        <p>Your go-to solution for exceptional structural engineering.
+        </p>
+    <img src=""C:\Users\angel\Downloads\Lupang Liyab Structure.jpeg""
+    alt="">
+        <!-- Add more content or images as needed -->
+    </section>
+
+    <!-- About Us Section -->
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Learn about our commitment to excellence and innovation in structural engineering.</p>
+        <!-- Add more content or images as needed -->
+    </section>
+
+    <!-- Services Section -->
+    <section id="services">
+        <h2>Our Services</h2>
+        <p>Explore our range of services, tailored to meet your structural engineering needs.</p>
+        <!-- Add more content or images as needed -->
+    </section>
+
+    <!-- Portfolio Section -->
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <p>View our showcased projects that demonstrate our expertise and dedication.</p>
+        <!-- Add images or descriptions of your portfolio projects -->
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Reach out to us for inquiries or to discuss your upcoming projects.</p>
+        <!-- Include a contact form or contact information as needed -->
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2023 Lupang Liyab Structure. All rights reserved.</p>
+        <!-- Add links to your terms of service, privacy policy, etc. -->
+    </footer>
+    <!-- Add your additional scripts here -->
+</body>
+
+</html>
